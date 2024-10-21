@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Amr and I'm a software engineer from Egypt</p>
+<p align="left">My name is Amr. I'm a software engineer from Egypt</p>
 
 ###
 
